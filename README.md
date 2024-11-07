@@ -15,7 +15,7 @@ Este repositório contém uma coleção de scripts e notebooks utilizados para r
 
 ## Como Navegar nesse Repositório
 
-Cada diretório contém scripts e notebooks com códigos utilizados em exercícios e com dados fictícios. Aqui temos 3 *Brunchs*, sendo: "Códigos-em-Python", "Estatística", "MongoDB" e "SQL". Eles foram importados do **Google Colaboratory** e podem ser direcionados para a página original, clicando no link disponível *acessar Colab*, em cada um dos arquivos.
+Cada diretório contém scripts e notebooks com códigos utilizados em exercícios e com dados fictícios. Aqui temos 3 *Brunchs*, sendo: "Códigos-em-Python", "Estatística", "MongoDB" e "SQL". Eles foram importados do **Google Colaboratory** e podem ser direcionados para a página original, clicando no link disponível "***Open in Colab***", em cada um dos arquivos.
 
 ## Contribuições
 

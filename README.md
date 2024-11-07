@@ -9,13 +9,13 @@ Este repositório contém uma coleção de scripts e notebooks utilizados para r
 - **Python**: Scripts e notebooks para análise de dados, automação e visualização.
 - **Pandas**: Exemplos de manipulação de dados utilizando a biblioteca Pandas.
 - **PySpark**: Códigos sobre processamento de dados distribuídos com PySpark.
-- **SQL**: Consultas e exemplos práticos de uso de SQL para análise de dados, seleções e junções.
-- **MongoDB**: Exemplos de conexão, consulta e manipulação de dados em MongoDB.
 - **Estatística**: Notebooks contendo explicações e exemplos de conceitos estatísticos aplicados em análise de dados.
+- **MongoDB**: Exemplos de conexão, consulta e manipulação de dados em MongoDB.
+- **SQL**: Consultas e exemplos práticos de uso de SQL para análise de dados, seleções e junções.
 
 ## Como Navegar nesse Repositório
 
-Cada diretório contém scripts e notebooks com códigos utilizados em exercícios e com dados fictícios. Eles foram importados do **Google Colaboratory** e podem ser direcionados para a página original, clicando no link disponível *acessar Colab*, em cada um dos arquivos.
+Cada diretório contém scripts e notebooks com códigos utilizados em exercícios e com dados fictícios. Aqui temos 3 *Brunchs*, sendo: "Códigos-em-Python", "Estatística", "MongoDB" e "SQL". Eles foram importados do **Google Colaboratory** e podem ser direcionados para a página original, clicando no link disponível *acessar Colab*, em cada um dos arquivos.
 
 ## Contribuições
 
